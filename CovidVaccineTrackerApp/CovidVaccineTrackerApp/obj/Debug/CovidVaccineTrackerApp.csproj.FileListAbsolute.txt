@@ -1,8 +1,0 @@
-C:\Users\krati\source\repos\CovidVaccineTrackerApp\CovidVaccineTrackerApp\bin\Debug\CovidVaccineTrackerApp.exe.config
-C:\Users\krati\source\repos\CovidVaccineTrackerApp\CovidVaccineTrackerApp\bin\Debug\CovidVaccineTrackerApp.exe
-C:\Users\krati\source\repos\CovidVaccineTrackerApp\CovidVaccineTrackerApp\bin\Debug\CovidVaccineTrackerApp.pdb
-C:\Users\krati\source\repos\CovidVaccineTrackerApp\CovidVaccineTrackerApp\obj\Debug\CovidVaccineTrackerApp.csproj.AssemblyReference.cache
-C:\Users\krati\source\repos\CovidVaccineTrackerApp\CovidVaccineTrackerApp\obj\Debug\CovidVaccineTrackerApp.csproj.SuggestedBindingRedirects.cache
-C:\Users\krati\source\repos\CovidVaccineTrackerApp\CovidVaccineTrackerApp\obj\Debug\CovidVaccineTrackerApp.csproj.CoreCompileInputs.cache
-C:\Users\krati\source\repos\CovidVaccineTrackerApp\CovidVaccineTrackerApp\obj\Debug\CovidVaccineTrackerApp.exe
-C:\Users\krati\source\repos\CovidVaccineTrackerApp\CovidVaccineTrackerApp\obj\Debug\CovidVaccineTrackerApp.pdb
